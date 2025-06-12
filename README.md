@@ -12,6 +12,6 @@ This Weather App allows users to check the current weather for any city. It uses
 
 <H1>Project Files</H1>
 
-weather-app/index.html: Structure of the web page
-weather-app/script.js: JavaScript logic for fetching and displaying weather data
-weather-app/style.css: Styling
+<br>weather-app/index.html: Structure of the web page</br>
+<br>weather-app/script.js: JavaScript logic for fetching and displaying weather data</br>
+<br>weather-app/style.css: Styling</br>
